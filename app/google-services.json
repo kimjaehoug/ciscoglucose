@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "357150200616",
+    "project_id": "ciscoglucose",
+    "storage_bucket": "ciscoglucose.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357150200616:android:361d9e06d71e059566f61d",
+        "android_client_info": {
+          "package_name": "com.study.ciscoglucose"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNry-Gv7voAaDGWuPzLIZuMT5Oho1_RKQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
