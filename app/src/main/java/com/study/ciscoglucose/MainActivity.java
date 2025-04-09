@@ -145,7 +145,7 @@ public class MainActivity extends AppCompatActivity {
                                 handler.postDelayed(new Runnable() {
                                     @Override
                                     public void run() {
-                                        Intent intent = new Intent(MainActivity.this, MainPage.class);
+                                        Intent intent = new Intent(MainActivity.this, PredictActivity.class);
                                         startActivity(intent);
                                     }
                                 }, 3000); // 3초 후 MainPage로 이동

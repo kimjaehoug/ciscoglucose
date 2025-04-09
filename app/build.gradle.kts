@@ -41,8 +41,8 @@ dependencies {
     implementation("com.google.firebase:firebase-storage:21.0.1")
     implementation("com.google.firebase:firebase-messaging:24.1.0")
     implementation("com.google.firebase:firebase-firestore-ktx:25.1.2")
-
-
+    implementation ("com.github.PhilJay:MPAndroidChart:v3.1.0")
+    implementation ("com.squareup.okhttp3:okhttp:4.9.3")
     // Firebase UI 라이브러리 (별도로 선언)
     implementation ("com.firebaseui:firebase-ui-database:8.0.2")
     implementation ("com.google.gms:google-services:4.4.2")
